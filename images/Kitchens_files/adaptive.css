@@ -1,0 +1,122 @@
+@media screen and (min-width: 1921px) {
+    #main {
+        background-size: 100%;
+        background-position: bottom center;
+    }
+
+    /*#description {*/
+    /*    background-size: 100% 100%;*/
+    /*}*/
+
+    /*#info {*/
+    /*    background-size: 100%;*/
+    /*}*/
+
+}
+
+@media screen and (max-width: 1229px) {
+
+}
+/*1024 - 1199 */
+@media screen and (max-width: 1199px) {
+    /*#header, #titles, #features, #drinks-container, #stock, #addresses, #instagram {*/
+    /*    width: 100%;*/
+    /*    padding-left: 20px;*/
+    /*    padding-right: 20px;*/
+    /*    box-sizing: border-box;*/
+    /*}*/
+
+    /*#header {*/
+    /*    flex-wrap: wrap;*/
+    /*    justify-content: space-evenly;*/
+    /*    padding-top: 20px;*/
+    /*}*/
+
+    /*#header #menu ul {*/
+    /*    margin: 0 auto;*/
+    /*    padding: 0;*/
+    /*}*/
+
+    /*#header #logo {*/
+    /*    order: 1;*/
+    /*}*/
+
+    /*#header #menu {*/
+    /*    order: 3;*/
+    /*    width: 100%;*/
+    /*}*/
+
+    /*#header #action {*/
+    /*    order: 2;*/
+    /*}*/
+
+    /*#features {*/
+    /*    justify-content: space-evenly;*/
+    /*}*/
+
+    /*#description-image {*/
+    /*    !*max-width: 400px;*!*/
+    /*}*/
+
+    /*#description-image img {*/
+    /*    max-width: 100%;*/
+    /*    max-height: 100%;*/
+    /*}*/
+
+    /*#description-container {*/
+    /*    justify-content: space-evenly;*/
+    /*    align-items: center;*/
+    /*}*/
+
+    /*#reviews .review {*/
+    /*    margin: 0 10px;*/
+    /*}*/
+
+    /*#info {*/
+    /*    padding-right: 20px;*/
+    /*    padding-left: 20px;*/
+    /*}*/
+
+    /*#addresses-container .address-container .address {*/
+    /*    width: auto;*/
+    /*    max-width: 470px;*/
+    /*}*/
+
+    /*#addresses-container .address-container .address .address-text {*/
+    /*    padding: 0 50px;*/
+    /*}*/
+
+}
+
+/*768 - 1023 */
+@media screen and (max-width: 1023px) {
+
+}
+
+/*580 - 767 */
+@media screen and (max-width: 767px) {
+
+
+}
+
+/*480 - 579 */
+@media screen and (max-width: 579px) {
+
+
+}
+
+/*480 - 479 */
+@media screen and (max-width: 499px) {
+
+
+
+}
+
+/*320 - 479 */
+@media screen and (max-width: 479px) {
+
+
+
+}
+
+
