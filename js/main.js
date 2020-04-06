@@ -106,9 +106,11 @@ $(document).ready(() => {
         $('body').css('overflow', 'hidden');
     });
 
-    $('#header #menu ul li').click(() => {
+    $('#header #menu').click(() => {
         $('#header').removeClass('menu-open');
         $('body').css('overflow', 'auto');
     });
+
+
 
 });
